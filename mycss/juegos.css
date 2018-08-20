@@ -1,0 +1,13 @@
+p, h1, h2, h3, h4, h5{
+	font-family: verdana;
+	color: white;
+}
+
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}

@@ -1,0 +1,20 @@
+.container{
+	margin-top: 10px;
+	text-align: center;
+	width: 80%;
+	padding: 15px;
+
+}
+
+.texto{
+	font-family: Helvetica;
+	text-align: left;
+}
+
+.titulo{
+	height: 40px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding: 5px;
+	text-align: center;
+}

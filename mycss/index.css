@@ -1,0 +1,56 @@
+.background-standar{
+	background-color: white;
+}
+
+.texto{
+	font-family: Helvetica;
+}
+
+.titulo{
+	font-family: Helvetica;
+	text-align: center;
+	margin-top: 20px;
+}
+
+body{
+	background-color: #FBEFEF;
+}
+
+
+h1{
+	text-align: center;
+	margin: 15px;
+}
+.container-border{
+	border-radius: 10px 10px 10px 10px;
+	border: 0px solid #000000;
+}
+
+.img-nav{
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#carouselExampleIndicators{
+	margin: 35px;
+}
+
+hr {
+  color: #ffff;
+}
+
+p, h1, h2, h3, h4, h5{
+	font-family: verdana;
+	color: white;
+}
+
+.miniatura{
+	margin-top: 20px;
+}
+
+.container-miniatura{
+	padding-top: 15px;
+	padding-left: 30px;
+}
+
